@@ -1,0 +1,79 @@
+body {
+    background: url('imagem/ceumario.jpg');
+    background-attachment: fixed;
+    font: 16px arial, Helvetica, serif;
+}
+.principal{
+    width: 300px;
+    height: 1300px;
+    position: absolute;
+    left: 84%;
+    
+}
+
+.principal2{
+    width: 300px;
+    height: 1300px;
+    position: absolute;
+    
+}
+
+.cabecalho {
+    width: 350px;
+    position: absolute;
+    left: 40%;
+    top: 8%
+}
+
+
+h1{
+    Color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;;
+    font-weight: bold;
+    position: absolute;
+    top: 41%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+}
+h2{
+    Color: white;
+    padding: 5px;;
+    font-weight: bold;
+    position: absolute;
+    top: 117%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+}
+
+
+.div-video{
+    width: 100%;
+    padding-top: 56.25%;
+    position: absolute;
+}
+
+.div-video iframe{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top:47%;
+    left: 24%;
+    border-radius: 10px;
+}
+
+
+
+
+.container{ max-width: 700px;}
+
+p{ Color: white;
+    background-color: rgb(7, 145, 7);
+    border-radius: 5px;
+    padding: 5px;;
+    font-weight: bold;
+    position: absolute;
+    top: 130%;
+    left: 49%;
+    transform: translate(-50%, -50%);}
